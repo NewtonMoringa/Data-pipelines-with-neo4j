@@ -1,4 +1,4 @@
-# Data pipelines with Redis
+# Data pipelines with Neo4j
 ## Best Practices
 * Logging
 * Batching
